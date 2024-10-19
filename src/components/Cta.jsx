@@ -1,5 +1,3 @@
-'use client'
-
 import { motion } from "framer-motion"
 import { Input } from "./ui/input"
 import { Button } from "./ui/button"
